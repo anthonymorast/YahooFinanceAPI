@@ -1,0 +1,9 @@
+README.md
+setup.py
+YahooFinanceAPI.egg-info/PKG-INFO
+YahooFinanceAPI.egg-info/SOURCES.txt
+YahooFinanceAPI.egg-info/dependency_links.txt
+YahooFinanceAPI.egg-info/top_level.txt
+yfapi/Interval.py
+yfapi/YahooFinanceAPI.py
+yfapi/__init__.py

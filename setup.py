@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name='YahooFinanceAPI',
     version='1.0.0',
-    description='A blackbox Ally Invest/TradeKing API interface for application developers.',
+    description='An API wrapper for retrieving historical stock data from Yahoo Finanace',
     url='https://github.com/anthonymorast/YahooFinanceAPI',
     author='Anthony Morast',
     author_email='anthony.a.morast@gmail.com',
