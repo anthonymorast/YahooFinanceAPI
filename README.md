@@ -49,6 +49,7 @@ Example usage, as seen in *example.py*:
 
 ```python
 from yfapi import YahooFinanceAPI, Interval
+import datetime
 
 # instantiate the API and set the interval to weekly data
 dh = YahooFinanceAPI(Interval.WEEKLY)
